@@ -6,3 +6,10 @@ Creating a new branch is quick.
 master
 dev ++ ++
 dev33
+dev ++ ++ ++
+master2
+dev2
+new dev
+dengwei
+bob ++
+dev33
